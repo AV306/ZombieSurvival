@@ -1,0 +1,28 @@
+{
+  "parent": "zsm:root",
+  "criteria": {
+    "last_morning": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "background": "zsm:textures/gui/advancements/backgrounds/zsm.png",
+    "description": {
+      "translate": "advancements.zsm.last_morning.description"
+    },
+    "frame": "goal",
+    "icon": {
+      "count": 1,
+      "id": "minecraft:clock"
+    },
+    "title": {
+      "translate": "advancements.zsm.last_morning.title"
+    }
+  },
+  "requirements": [
+    [
+      "last_morning"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

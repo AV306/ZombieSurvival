@@ -1,0 +1,22 @@
+{
+  "required": true,
+  "package": "me.jungdab.zsm.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "SleepManagerMixin",
+    "SpawnGroupMixin",
+    "SpawnHelperMixin",
+    "PlayerManagerMixin",
+    "PlayerEntityMixin",
+    "NetherPortalBlockMixin"
+  ],
+  "client": [
+    "PlayerEntityRendererMixin",
+    "CameraMixin",
+    "LivingEntityMixin",
+    "LogoDrawerMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+	}
+}

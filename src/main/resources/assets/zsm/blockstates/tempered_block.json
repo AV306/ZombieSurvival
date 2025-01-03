@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "zsm:block/tempered_block"
+    }
+  }
+}

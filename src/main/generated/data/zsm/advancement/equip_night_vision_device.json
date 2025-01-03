@@ -1,0 +1,41 @@
+{
+  "parent": "zsm:root",
+  "criteria": {
+    "equip_night_vision_device": {
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {}
+          },
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": "zsm:night_vision_device"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:item_used_on_block"
+    }
+  },
+  "display": {
+    "background": "zsm:textures/gui/advancements/backgrounds/zsm.png",
+    "description": {
+      "translate": "advancements.zsm.equip_night_vision_device.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "zsm:night_vision_device"
+    },
+    "title": {
+      "translate": "advancements.zsm.equip_night_vision_device.title"
+    }
+  },
+  "requirements": [
+    [
+      "equip_night_vision_device"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

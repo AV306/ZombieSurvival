@@ -1,0 +1,29 @@
+{
+  "parent": "zsm:last_morning",
+  "criteria": {
+    "defeat_boss": {
+      "trigger": "minecraft:impossible"
+    }
+  },
+  "display": {
+    "background": "zsm:textures/gui/advancements/backgrounds/zsm.png",
+    "description": {
+      "translate": "advancements.zsm.defeat_boss.description"
+    },
+    "frame": "challenge",
+    "hidden": true,
+    "icon": {
+      "count": 1,
+      "id": "zsm:zombie_boss_head"
+    },
+    "title": {
+      "translate": "advancements.zsm.defeat_boss.title"
+    }
+  },
+  "requirements": [
+    [
+      "defeat_boss"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

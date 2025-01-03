@@ -1,0 +1,51 @@
+{
+  "parent": "zsm:root",
+  "criteria": {
+    "got_zombie_bone": {
+      "conditions": {
+        "items": [
+          {
+            "items": "zsm:zombie_bone"
+          }
+        ]
+      },
+      "trigger": "minecraft:inventory_changed"
+    }
+  },
+  "display": {
+    "background": "zsm:textures/gui/advancements/backgrounds/zsm.png",
+    "description": {
+      "translate": "advancements.zsm.got_zombie_bone.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "zsm:zombie_bone"
+    },
+    "title": {
+      "translate": "advancements.zsm.got_zombie_bone.title"
+    }
+  },
+  "requirements": [
+    [
+      "got_zombie_bone"
+    ]
+  ],
+  "rewards": {
+    "recipes": [
+      "zsm:fence",
+      "zsm:night_vision_device",
+      "zsm:tempered_block",
+      "zsm:tempered_ingot",
+      "zsm:turret",
+      "zsm:turret_core",
+      "zsm:zombie_bone_boots",
+      "zsm:zombie_bone_chestplate",
+      "zsm:zombie_bone_helmet",
+      "zsm:zombie_bone_leggings",
+      "zsm:zombie_bone_sword",
+      "zsm:zombie_ingot",
+      "zsm:zombie_ingot_block"
+    ]
+  },
+  "sends_telemetry_event": true
+}

@@ -1,0 +1,11 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {
+    "item": "zsm:zombie_ingot"
+  },
+  "result": {
+    "id": "zsm:tempered_ingot"
+  },
+  "experience": 0.1,
+  "cookingtime": 50
+}

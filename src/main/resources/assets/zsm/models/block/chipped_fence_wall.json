@@ -1,0 +1,6 @@
+{
+	"parent": "zsm:block/fence_wall",
+	"textures": {
+		"texture": "zsm:block/chipped_fence"
+	}
+}

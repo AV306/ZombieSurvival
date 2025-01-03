@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "zsm:block/revive_block"
+    }
+  }
+}

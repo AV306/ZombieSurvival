@@ -1,0 +1,63 @@
+{
+  "gui.zsm.days": "Days",
+
+  "itemGroup.zsm.zsmGroup": "ZSM Mod",
+
+  "item.zsm.turret": "Turret",
+  "item.zsm.night_vision_device": "Night Vision Device",
+  "item.zsm.zombie_bone": "Zombie Bone",
+  "item.zsm.zombie_ingot": "Zombie Ingot",
+  "item.zsm.zombie_hammer": "Zombie Hammer",
+  "item.zsm.zombie_bone_sword": "Zombie Bone Sword",
+  "item.zsm.zombie_bone_helmet": "Zombie Bone Helmet",
+  "item.zsm.zombie_bone_chestplate": "Zombie Bone Chestplate",
+  "item.zsm.zombie_bone_leggings": "Zombie Bone Leggings",
+  "item.zsm.zombie_bone_boots": "Zombie Bone Boots",
+  "item.zsm.basic_zombie_spawn_egg": "Basic Zombie Spawn Egg",
+  "item.zsm.bomb_zombie_spawn_egg": "Bomb Zombie Spawn Egg",
+  "item.zsm.hammer_zombie_spawn_egg": "Hammer Zombie Spawn Egg",
+  "item.zsm.super_zombie_spawn_egg": "Super Zombie Spawn Egg",
+  "item.zsm.zombie_boss_head": "Boss Zombie Head",
+  "item.zsm.turret_core": "Turret Core",
+  "item.zsm.tempered_ingot": "Tempered Ingot",
+
+  "item.zsm.zombie_bone_armor.lore": "§r§7Full set equipped:",
+  "item.zsm.zombie_bone_armor.lore2": "§r§9200% damage to zombie",
+
+  "item.zsm.zombie_hammer.lore": "§r§7When attacking:",
+  "item.zsm.zombie_hammer.lore2": "§r§9Stun for 2 seconds",
+
+  "block.zsm.zombie_ingot_block": "Zombie Ingot Block",
+  "block.zsm.fence": "Fence",
+  "block.zsm.chipped_fence": "Chipped Fence",
+  "block.zsm.damaged_fence": "Damaged Fence",
+  "block.zsm.tempered_block": "Tempered Block",
+  "block.zsm.chipped_tempered_block": "Chipped Tempered Block",
+  "block.zsm.damaged_tempered_block": "Damaged Tempered Block",
+
+  "entity.zsm.basic_zombie": "Basic Zombie",
+  "entity.zsm.bomb_zombie": "Bomb Zombie",
+  "entity.zsm.hammer_zombie": "Hammer Zombie",
+  "entity.zsm.super_zombie": "Super Zombie",
+  "entity.zsm.boss_zombie": "Boss Zombie",
+
+  "effect.zsm.stun": "Stun",
+
+  "advancements.zsm.root.title": "Zombie Survival Mod",
+  "advancements.zsm.root.description": "Now, it's just the beginning",
+
+  "advancements.zsm.got_zombie_bone.title": "First Zombie",
+  "advancements.zsm.got_zombie_bone.description": "Obtain a Zombie Bone",
+
+  "advancements.zsm.equip_night_vision_device.title": "Light Up the Darkness",
+  "advancements.zsm.equip_night_vision_device.description": "Equip a night vision device with Right Click",
+
+  "advancements.zsm.using_turret.title": "Ready, Aim, Fire!",
+  "advancements.zsm.using_turret.description": "Place a turret",
+
+  "advancements.zsm.last_morning.title": "Last Morning",
+  "advancements.zsm.last_morning.description": "Embrace the morning of the 10th day",
+
+  "advancements.zsm.defeat_boss.title": "Thanks For Playing",
+  "advancements.zsm.defeat_boss.description": "You Win!!!!"
+}

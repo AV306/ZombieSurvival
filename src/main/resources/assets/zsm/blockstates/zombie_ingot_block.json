@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "zsm:block/zombie_ingot_block"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "entity.boss_zombie.ambient": {
+    "sounds": [
+      "zsm:entity/boss_zombie/ambient1",
+      "zsm:entity/boss_zombie/ambient2",
+      "zsm:entity/boss_zombie/ambient3"
+    ]
+  },
+  "entity.boss_zombie.hurt": {
+    "sounds": [
+      "zsm:entity/boss_zombie/hurt1",
+      "zsm:entity/boss_zombie/hurt2",
+      "zsm:entity/boss_zombie/hurt3"
+    ]
+  },
+  "entity.boss_zombie.swing": {
+    "sounds": [
+      "zsm:entity/boss_zombie/swing"
+    ]
+  },
+  "entity.super_zombie.ambient": {
+    "sounds": [
+      "zsm:entity/super_zombie/ambient1",
+      "zsm:entity/super_zombie/ambient2",
+      "zsm:entity/super_zombie/ambient3"
+    ]
+  },
+  "entity.super_zombie.hurt": {
+    "sounds": [
+      "zsm:entity/super_zombie/hurt1",
+      "zsm:entity/super_zombie/hurt2"
+    ]
+  },
+  "entity.super_zombie.death": {
+    "sounds": [
+      "zsm:entity/super_zombie/death"
+    ]
+  },
+  "entity.turret.shoot": {
+    "sounds": [
+      "zsm:entity/turret/shoot"
+    ]
+  },
+  "entity.turret.death": {
+    "sounds": [
+      "zsm:entity/turret/death"
+    ]
+  },
+  "entity.turret.spawn": {
+    "sounds": [
+      "zsm:entity/turret/spawn"
+    ]
+  },
+  "entity.turret.hurt": {
+    "sounds": [
+      "zsm:entity/turret/hurt"
+    ]
+  }
+}

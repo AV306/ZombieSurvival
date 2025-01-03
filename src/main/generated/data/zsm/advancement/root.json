@@ -1,0 +1,26 @@
+{
+  "criteria": {
+    "entered_game": {
+      "trigger": "minecraft:tick"
+    }
+  },
+  "display": {
+    "background": "zsm:textures/gui/advancements/backgrounds/zsm.png",
+    "description": {
+      "translate": "advancements.zsm.root.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "zsm:basic_zombie_spawn_egg"
+    },
+    "title": {
+      "translate": "advancements.zsm.root.title"
+    }
+  },
+  "requirements": [
+    [
+      "entered_game"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

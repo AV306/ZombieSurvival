@@ -1,0 +1,40 @@
+{
+	"schemaVersion": 1,
+	"id": "zsm",
+	"version": "${version}",
+	"name": "Zombie Survival Mod",
+	"description": "Zombie Survival Mod!!!!",
+	"authors": [
+		"Jungdab",
+		"Liminal"
+	],
+	"contact": {
+		"homepage": "https://www.youtube.com/@Jungdab"
+	},
+	"license": "MIT",
+	"icon": "assets/zsm/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+          "me.jungdab.zsm.ZSM"
+		],
+		"fabric-datagen": [
+          "me.jungdab.zsm.ZSMDataGenerator"
+		],
+		"client": [
+			"me.jungdab.zsm.ZSMClient"
+		]
+	},
+	"mixins": [
+		"zsm.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.16.7",
+		"minecraft": "~1.21.1",
+		"java": ">=21",
+		"fabric-api": "*"
+	},
+	"suggests": {
+		"another-mod": "*"
+	}
+}

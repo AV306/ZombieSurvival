@@ -1,0 +1,41 @@
+{
+  "parent": "zsm:root",
+  "criteria": {
+    "using_turret": {
+      "conditions": {
+        "location": [
+          {
+            "condition": "minecraft:location_check",
+            "predicate": {}
+          },
+          {
+            "condition": "minecraft:match_tool",
+            "predicate": {
+              "items": "zsm:turret"
+            }
+          }
+        ]
+      },
+      "trigger": "minecraft:item_used_on_block"
+    }
+  },
+  "display": {
+    "background": "zsm:textures/gui/advancements/backgrounds/zsm.png",
+    "description": {
+      "translate": "advancements.zsm.using_turret.description"
+    },
+    "icon": {
+      "count": 1,
+      "id": "zsm:turret"
+    },
+    "title": {
+      "translate": "advancements.zsm.using_turret.title"
+    }
+  },
+  "requirements": [
+    [
+      "using_turret"
+    ]
+  ],
+  "sends_telemetry_event": true
+}

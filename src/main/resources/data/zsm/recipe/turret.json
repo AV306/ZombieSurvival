@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        "iIi",
+        " R ",
+        "i i"
+    ],
+    "key": {
+        "i": {
+            "item": "zsm:tempered_ingot"
+        },
+        "I": {
+            "item": "zsm:turret_core"
+        },
+        "R": {
+            "item": "minecraft:redstone_block"
+        }
+    },
+    "result": {
+        "id": "zsm:turret",
+        "count" : 1
+    }
+}

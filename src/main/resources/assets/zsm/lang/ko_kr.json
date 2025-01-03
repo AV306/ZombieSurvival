@@ -1,0 +1,63 @@
+{
+  "gui.zsm.days": "현재 일자",
+
+  "itemGroup.zsm.zsmGroup": "ZSM Mod",
+
+  "item.zsm.turret": "터렛",
+  "item.zsm.night_vision_device": "야간투시경",
+  "item.zsm.zombie_bone": "좀비 뼈",
+  "item.zsm.zombie_ingot": "좀비 뼈 주괴",
+  "item.zsm.zombie_hammer": "좀비 망치",
+  "item.zsm.zombie_bone_sword": "좀비 뼈 검",
+  "item.zsm.zombie_bone_helmet": "좀비 뼈 투구",
+  "item.zsm.zombie_bone_chestplate": "좀비 뼈 흉갑",
+  "item.zsm.zombie_bone_leggings": "좀비 뼈 레깅스",
+  "item.zsm.zombie_bone_boots": "좀비 뼈 부츠",
+  "item.zsm.basic_zombie_spawn_egg": "기본 좀비 생성 알",
+  "item.zsm.bomb_zombie_spawn_egg": "폭탄 좀비 생성 알",
+  "item.zsm.hammer_zombie_spawn_egg": "망치 좀비 생성 알",
+  "item.zsm.super_zombie_spawn_egg": " 슈퍼 좀비 생성 알",
+  "item.zsm.zombie_boss_head": "보스 좀비 머리",
+  "item.zsm.turret_core": "터렛 코어",
+  "item.zsm.tempered_ingot": "강화된 주괴",
+
+  "item.zsm.zombie_bone_armor.lore": "§r§7풀 세트 장착 시:",
+  "item.zsm.zombie_bone_armor.lore2": "§r§9좀비에게 200% 대미지",
+
+  "item.zsm.zombie_hammer.lore": "§r§7공격 시:",
+  "item.zsm.zombie_hammer.lore2": "§r§92초간 기절",
+
+  "block.zsm.zombie_ingot_block": "좀비 뼈 주괴 블럭",
+  "block.zsm.fence": "펜스",
+  "block.zsm.chipped_fence": "손상된 펜스",
+  "block.zsm.damaged_fence": "망가진 펜스",
+  "block.zsm.tempered_block": "강화 블럭",
+  "block.zsm.chipped_tempered_block": "손상된 강화 블럭",
+  "block.zsm.damaged_tempered_block": "망가진 강화 블럭",
+
+  "entity.zsm.basic_zombie": "기본 좀비",
+  "entity.zsm.bomb_zombie": "폭탄 좀비",
+  "entity.zsm.hammer_zombie": "망치 좀비",
+  "entity.zsm.super_zombie": "슈퍼 좀비",
+  "entity.zsm.boss_zombie": "보스 좀비",
+
+  "effect.zsm.stun": "기절",
+
+  "advancements.zsm.root.title": "Zombie Survival Mod",
+  "advancements.zsm.root.description": "이제 시작이야",
+
+  "advancements.zsm.got_zombie_bone.title": "첫 번째 좀비",
+  "advancements.zsm.got_zombie_bone.description": "좀비 뼈를 얻으세요",
+
+  "advancements.zsm.equip_night_vision_device.title": "어둠을 환하게",
+  "advancements.zsm.equip_night_vision_device.description": "우클릭으로 야간투시경을 장착하세요",
+
+  "advancements.zsm.using_turret.title": "사격준비 완료!",
+  "advancements.zsm.using_turret.description": "터렛을 설치하세요",
+
+  "advancements.zsm.last_morning.title": "마지막 날 아침",
+  "advancements.zsm.last_morning.description": "10일차 아침을 맞으세요",
+
+  "advancements.zsm.defeat_boss.title": "플레이 해주셔서 감사합니다",
+  "advancements.zsm.defeat_boss.description": "클리어!!!!"
+}

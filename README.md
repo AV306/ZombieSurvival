@@ -1,3 +1,8 @@
+
+## Modifications
+
+- Re-enable Nether (remove NetherPortalBlockMixin)
+- Remove revive mechanism (remove PlayerManagerMixin)
 TODO
 
 - make revival mechanic work with [Revive](https://modrinth.com/mod/revive)
